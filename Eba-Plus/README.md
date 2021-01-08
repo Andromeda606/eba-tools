@@ -1,4 +1,4 @@
-# Eba Plus
+# Eba Tools
 Eba canlı dersleri için basit bir kod
 
 ### Kurulum
