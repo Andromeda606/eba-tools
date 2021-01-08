@@ -1,5 +1,5 @@
 # Eba Tools
-Eba canlı dersleri için basit bir kod
+Eba canlı dersleri için basit bir kod. Canlı ders esnasında akademik desteğe girmenizi, süreyi geçmenizi sağlar (ileride istek üzerine daha fazla şey eklenebilir)
 
 ### Kurulum
 
