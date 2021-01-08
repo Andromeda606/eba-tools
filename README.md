@@ -1,4 +1,4 @@
-# eba_plus
+# eba-tools
 Eba hakkında her türlü kod, bilgi paylaştığım depo.
 
 
